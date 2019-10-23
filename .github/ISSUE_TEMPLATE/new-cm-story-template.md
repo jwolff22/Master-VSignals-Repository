@@ -14,6 +14,8 @@ Type: Story
 
 Filed Against:
 
+Config Analyst:
+
 Impact:
 
 Severity:
